@@ -28,22 +28,4 @@ The portfolio showcases my personal profile, academic background, technical skil
 - Responsive design for mobile, tablet and desktop
 - Keyboard accessibility features
 
-## 📂 Project Structure
-
-```text
-Mamatha-Portfolio/
-│
-├── index.html
-├── README.md
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│
-└── projects/
-
-## Live link : https://mamathathecoder.github.io/Mamatha-Portfolio/
+Live link : https://mamathathecoder.github.io/Mamatha-Portfolio/
